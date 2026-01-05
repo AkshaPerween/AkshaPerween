@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm looking forward to working and collaborating in research and AI driven projects.
+I'm looking forward to working and collaborating on research and AI-driven projects.
 
 
 # 💻 Tech Stack:
