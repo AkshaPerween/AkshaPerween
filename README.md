@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning backend development using Python.<br>I'm looking forward to working and collaborating in research and AI driven projects.
+I'm looking forward to working and collaborating in research and AI driven projects.
 
 
 # 💻 Tech Stack:
